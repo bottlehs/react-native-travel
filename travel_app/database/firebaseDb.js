@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: 'travel-app-10ce5', // your-cloud-firestore-project
   storageBucket: 'travel-app-10ce5.appspot.com', // your-storage-bucket
   messagingSenderId: '000000000000000', // your-sender-id
-  appId: '1:649634214271:android:4124e67cfe3aa4ea2a2a4a',
+  appId: '1:649634214271:android:4b394a29ae485e812a2a4a',
 };
 
 firebase.initializeApp(firebaseConfig);

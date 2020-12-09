@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "travel_app-tvOS.app"
-               BlueprintName = "travel_app-tvOS"
-               ReferencedContainer = "container:travel_app.xcodeproj">
+               BuildableName = "travelapp-tvOS.app"
+               BlueprintName = "travelapp-tvOS"
+               ReferencedContainer = "container:travelapp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "travel_app-tvOSTests.xctest"
-               BlueprintName = "travel_app-tvOSTests"
-               ReferencedContainer = "container:travel_app.xcodeproj">
+               BuildableName = "travelapp-tvOSTests.xctest"
+               BlueprintName = "travelapp-tvOSTests"
+               ReferencedContainer = "container:travelapp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "travel_app-tvOS.app"
-            BlueprintName = "travel_app-tvOS"
-            ReferencedContainer = "container:travel_app.xcodeproj">
+            BuildableName = "travelapp-tvOS.app"
+            BlueprintName = "travelapp-tvOS"
+            ReferencedContainer = "container:travelapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "travel_app-tvOS.app"
-            BlueprintName = "travel_app-tvOS"
-            ReferencedContainer = "container:travel_app.xcodeproj">
+            BuildableName = "travelapp-tvOS.app"
+            BlueprintName = "travelapp-tvOS"
+            ReferencedContainer = "container:travelapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

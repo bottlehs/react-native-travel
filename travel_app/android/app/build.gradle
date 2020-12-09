@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.travel_app"
+        applicationId "com.travelapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
